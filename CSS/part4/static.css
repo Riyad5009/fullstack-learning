@@ -1,0 +1,28 @@
+*{
+    height: 700px
+}
+.parent{
+    height: 200px;
+    width: 350px;
+    border: 3px solid black;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-top: 200px;
+}
+#st{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+.one{
+    background-color: yellow;
+}
+.two{
+    background-color: bisque;
+    position: fixed;
+
+}
+.three{
+    background-color: cadetblue;
+}

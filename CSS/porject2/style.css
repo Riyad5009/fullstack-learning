@@ -1,0 +1,16 @@
+.page1{
+    width: 1000px;
+    height: 500px;
+}
+.up{
+    position: relative;
+    display: inline;
+    top: 10px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    gap: 10px;
+}
+.bt li{
+    display: inline;
+
+}
