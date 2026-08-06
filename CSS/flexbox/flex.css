@@ -1,0 +1,13 @@
+.container{
+   height: 300px;
+    width: 80%;
+    background-color: aliceblue;
+    border: solid 2px black;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+}
+div{
+   height: 100px;
+   width: 100px;
+}
