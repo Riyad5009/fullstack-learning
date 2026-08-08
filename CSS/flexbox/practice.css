@@ -1,0 +1,18 @@
+.container{
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.container div{
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    background-color: darkgray;
+    border: 2px solid black;
+    text-align: center;
+}
